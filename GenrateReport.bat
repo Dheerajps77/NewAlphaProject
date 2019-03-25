@@ -1,0 +1,1 @@
+ReportGenerator\extent -i "Results\TestResults.xml" -c "ReportGenerator\config\v3html-config.xml" -o Results/  -r html
